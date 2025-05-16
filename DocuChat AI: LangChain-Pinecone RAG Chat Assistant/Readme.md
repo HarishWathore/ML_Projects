@@ -18,7 +18,7 @@
 
 1. Clone the project:
     ```bash
-    git clone https://github.com/HarishWathore/MLProjects/DocuChat AI: LangChain-Pinecone RAG Chat Assistant.git
+    git clone https://github.com/HarishWathore/MLProjects.git
     cd documentation-helper
     ```
 
