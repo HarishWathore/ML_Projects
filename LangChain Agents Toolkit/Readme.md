@@ -45,7 +45,23 @@ Jupyter Notebook, Pycharm, Git
 
    ```bash
    git clone https://github.com/HarishWathore//ML_Projects.git
-   cd langchain-agents-toolkit
+   cd code-interpreter
+
+2. Install dependencies (using pipenv):
+    ```bash
+    pipenv install
+    ```
+
+3. Set up environment variables by creating a `.env` file:
+    ```env
+    OPENAI_API_KEY=your_openai_api_key
+    PINECONE_API_KEY=your_pinecone_api_key
+    PINECONE_ENVIRONMENT=your_pinecone_environment
+
+4. Run Main:
+    ```bash
+    Python3 run main.py
+    ```
 
 
    
