@@ -44,7 +44,7 @@ Jupyter Notebook, Pycharm, Git
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/langchain-agents-toolkit.git
+   git clone https://github.com/HarishWathore/langchain-agents-toolkit.git
    cd langchain-agents-toolkit
 
 
